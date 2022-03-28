@@ -47,8 +47,8 @@ hr{
 }
 .bottom-container{
   background-color: #66BFBF;
-  padding-top: 50px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 60px;
 }
 .middle-container{
   padding-top: 100px;
@@ -125,9 +125,11 @@ hr{
 .man{
   color: #EAF6F6;
   font-size: 0.75rem;
+  line-height: 3;
 }
 .footer-link{
     color: #11999E;
+    margin-left: 20px;
     margin-right: 20px;
     text-decoration: none;
 }
